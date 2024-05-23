@@ -4,6 +4,7 @@
 ### Docusaurus ###
 # Docusaurus cache and generated files
 .docusaurus
+.cache-loader
 
 # Docusaurus Build Directory
 /build/
