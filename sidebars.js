@@ -23,6 +23,7 @@ module.exports = {
             "components/forms",
             "components/geolocation",
             "components/internationalization",
+            "components/buildAndDevelopment",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
