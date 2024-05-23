@@ -34,6 +34,7 @@ module.exports = {
             "components/monetization",
             "components/animation",
             "components/extension",
+            "components/otherPlatforms",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
