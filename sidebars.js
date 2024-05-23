@@ -24,6 +24,7 @@ module.exports = {
             "components/geolocation",
             "components/internationalization",
             "components/buildAndDevelopment",
+            "components/styling",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
