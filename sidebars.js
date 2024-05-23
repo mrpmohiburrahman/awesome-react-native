@@ -51,6 +51,7 @@ module.exports = {
         "blogs",
         "books",
         "talks",
+        "newsletters",
         "props",
         "methods",
         "hooks",
