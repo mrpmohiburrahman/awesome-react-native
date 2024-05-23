@@ -20,6 +20,7 @@ module.exports = {
             "components/analytics",
             "components/textAndRichContent",
             "components/utilsAndInfra",
+            "components/forms",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
