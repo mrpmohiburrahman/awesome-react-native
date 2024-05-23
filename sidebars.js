@@ -46,6 +46,7 @@ module.exports = {
         "getting-started",
         "usage",
         "openSourceApps",
+        "tutorials",
         "props",
         "methods",
         "hooks",

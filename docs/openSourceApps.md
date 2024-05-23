@@ -3,21 +3,16 @@ id: openSourceApps
 title: Open Source Apps
 description: List Of Open Source Apps
 keywords:
-  - bottomsheet
-  - bottom-sheet
-  - bottom sheet
   - react-native
   - react native
   - ios
   - android
-  - sheet
-  - modal
-  - presentation modal
   - reanimated
+  - apps
+  - open source apps
 image: /img/bottom-sheet-preview.gif
 slug: /opensourceapps
 ---
-
 
 Open source React Native apps and other examples.
 
