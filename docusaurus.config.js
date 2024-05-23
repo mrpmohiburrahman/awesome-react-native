@@ -4,8 +4,8 @@ module.exports = {
   title: "React Native Bottom Sheet",
   tagline:
     "A performant interactive bottom sheet with fully configurable options 🚀",
-  url: "https://gorhom.github.io",
-  baseUrl: "/react-native-bottom-sheet/",
+  url: "https://mrpmohiburrahman.github.io",
+  baseUrl: "/awesome-react-native/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   organizationName: "gorhom",
@@ -26,7 +26,7 @@ module.exports = {
         { to: "blog", label: "Blog", position: "left" },
         { to: "sponsors", label: "Sponsors", position: "right" },
         {
-          href: "https://github.com/gorhom/react-native-bottom-sheet",
+          href: "https://github.com/mrpmohiburrahman/awesome-react-native",
           label: "GitHub",
           position: "right",
         },
