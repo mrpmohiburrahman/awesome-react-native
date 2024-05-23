@@ -48,6 +48,7 @@ module.exports = {
         "openSourceApps",
         "tutorials",
         "books",
+        "talks",
         "props",
         "methods",
         "hooks",
