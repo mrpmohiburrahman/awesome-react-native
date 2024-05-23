@@ -16,6 +16,7 @@ module.exports = {
             "components/bottomsheetbackdrop",
             "components/UI",
             "components/navigation",
+            "components/deepLinking",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
