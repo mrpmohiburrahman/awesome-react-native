@@ -30,6 +30,7 @@ module.exports = {
             "components/media",
             "components/storage",
             "components/backend",
+            "components/integrations",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
