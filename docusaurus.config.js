@@ -11,6 +11,7 @@ module.exports = {
   organizationName: "gorhom",
   projectName: "react-native-bottom-sheet",
   favicon: "img/favicon.ico",
+  onBrokenLinks:"warn",
   themeConfig: {
     image: "img/icon.png",
     navbar: {
