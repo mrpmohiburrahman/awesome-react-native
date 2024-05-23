@@ -47,6 +47,7 @@ module.exports = {
         "usage",
         "openSourceApps",
         "tutorials",
+        "trainingAndTutorials",
         "books",
         "talks",
         "props",
