@@ -28,6 +28,7 @@ module.exports = {
             "components/system",
             "components/web",
             "components/media",
+            "components/storage",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
