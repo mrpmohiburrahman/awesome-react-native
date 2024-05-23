@@ -33,6 +33,7 @@ module.exports = {
             "components/integrations",
             "components/monetization",
             "components/animation",
+            "components/extension",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
