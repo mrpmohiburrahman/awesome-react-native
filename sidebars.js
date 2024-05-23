@@ -26,6 +26,7 @@ module.exports = {
             "components/buildAndDevelopment",
             "components/styling",
             "components/system",
+            "components/web",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
