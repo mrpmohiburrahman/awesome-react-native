@@ -14,22 +14,22 @@ module.exports = {
   themeConfig: {
     image: "img/icon.png",
     navbar: {
-      title: "Bottom Sheet",
+      title: "Awesome React Native",
       hideOnScroll: false,
       items: [
-        {
-          to: "modal",
-          activeBasePath: "modal",
-          label: "Bottom Sheet Modal",
-          position: "left",
-        },
-        { to: "blog", label: "Blog", position: "left" },
-        { to: "sponsors", label: "Sponsors", position: "right" },
-        {
-          href: "https://github.com/mrpmohiburrahman/awesome-react-native",
-          label: "GitHub",
-          position: "right",
-        },
+        // {
+        //   to: "modal",
+        //   activeBasePath: "modal",
+        //   label: "Bottom Sheet Modal",
+        //   position: "left",
+        // },
+        // { to: "blog", label: "Blog", position: "left" },
+        // { to: "sponsors", label: "Sponsors", position: "right" },
+        // {
+        //   href: "https://github.com/mrpmohiburrahman/awesome-react-native",
+        //   label: "GitHub",
+        //   position: "right",
+        // },
       ],
     },
     prism: {
@@ -56,14 +56,14 @@ module.exports = {
             "https://github.com/gorhom/react-native-bottom-sheet/edit/website/",
           lastVersion: "current",
         },
-        blog: {
-          path: "blog",
-          routeBasePath: "/blog",
-          showReadingTime: false,
-          blogSidebarCount: "ALL",
-          editUrl:
-            "https://github.com/gorhom/react-native-bottom-sheet/edit/website/website/blog/",
-        },
+        // blog: {
+        //   path: "blog",
+        //   routeBasePath: "/blog",
+        //   showReadingTime: false,
+        //   blogSidebarCount: "ALL",
+        //   editUrl:
+        //     "https://github.com/gorhom/react-native-bottom-sheet/edit/website/website/blog/",
+        // },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
