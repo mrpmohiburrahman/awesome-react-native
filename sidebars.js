@@ -19,6 +19,7 @@ module.exports = {
             "components/deepLinking",
             "components/analytics",
             "components/textAndRichContent",
+            "components/utilsAndInfra",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
