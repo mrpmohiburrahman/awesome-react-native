@@ -15,6 +15,7 @@ module.exports = {
             "components/bottomsheetvirtualizedlist",
             "components/bottomsheetbackdrop",
             "components/UI",
+            "components/navigation",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
