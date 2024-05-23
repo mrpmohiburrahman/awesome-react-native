@@ -38,6 +38,7 @@ module.exports = {
             "components/utilities",
             "components/seeds",
             "components/libraries",
+            "components/frameworks",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
