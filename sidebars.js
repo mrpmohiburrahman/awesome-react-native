@@ -2,14 +2,8 @@ module.exports = {
   packages: [
     {
       type: "category",
-      label: "Bottom Sheet",
+      label: "Category",
       items: [
-        "getting-started",
-        "usage",
-        "props",
-        "methods",
-        "hooks",
-        "scrollables",
         {
           type: "category",
           label: "Components",
@@ -20,10 +14,17 @@ module.exports = {
             "components/bottomsheetsectionlist",
             "components/bottomsheetvirtualizedlist",
             "components/bottomsheetbackdrop",
+            "components/UI",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
         },
+        "getting-started",
+        "usage",
+        "props",
+        "methods",
+        "hooks",
+        "scrollables",
         {
           type: "category",
           label: "Guides",
@@ -43,7 +44,7 @@ module.exports = {
         "faq",
       ],
     },
-    {
+    /* {
       type: "category",
       label: "Bottom Sheet Modal",
       items: [
@@ -53,6 +54,7 @@ module.exports = {
         "modal/methods",
         "modal/hooks",
       ],
-    },
+    } */
+    ,
   ],
 };
