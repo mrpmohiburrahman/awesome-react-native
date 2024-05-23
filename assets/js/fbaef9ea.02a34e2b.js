@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8856],{579:e=>{e.exports=JSON.parse('{"label":"v4","permalink":"/awesome-react-native/blog/tags/v-4","allTagsPath":"/awesome-react-native/blog/tags","count":1}')}}]);
