@@ -37,6 +37,7 @@ module.exports = {
             "components/otherPlatforms",
             "components/utilities",
             "components/seeds",
+            "components/libraries",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
