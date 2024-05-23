@@ -14,34 +14,34 @@ jobs:
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
         with:
-          node-version: 18
-          cache: yarn
-
-      - name: Install dependencies
-        run: yarn install --frozen-lockfile
+          version: 8
+          standalone: true
+          run_install: |
+            - recursive: true
+              args: [--frozen-lockfile, --strict-peer-dependencies]
 
       - name: Build website
-        run: yarn build
+        run: pnpm build
 
   deploy:
     name: Deploy to GitHub Pages
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
         with:
-          node-version: 18
-          cache: yarn
-
-      - name: Install dependencies
-        run: yarn install --frozen-lockfile
+          version: 8
+          standalone: true
+          run_install: |
+            - recursive: true
+              args: [--frozen-lockfile, --strict-peer-dependencies]
 
       - name: Build website
-        run: yarn build
+        run: pnpm build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
