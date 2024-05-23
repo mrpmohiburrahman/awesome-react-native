@@ -31,6 +31,7 @@ module.exports = {
             "components/storage",
             "components/backend",
             "components/integrations",
+            "components/monetization",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
           ],
