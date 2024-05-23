@@ -4,8 +4,8 @@
   <ShortName>React Native Bottom Sheet</ShortName>
   <Description>Search React Native Bottom Sheet</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://gorhom.github.io/react-native-bottom-sheet/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://gorhom.github.io/react-native-bottom-sheet/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://gorhom.github.io/react-native-bottom-sheet/opensearch.xml" />
-  <moz:SearchForm>https://gorhom.github.io/react-native-bottom-sheet/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://mrpmohiburrahman.github.io/awesome-react-native/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://mrpmohiburrahman.github.io/awesome-react-native/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://mrpmohiburrahman.github.io/awesome-react-native/opensearch.xml" />
+  <moz:SearchForm>https://mrpmohiburrahman.github.io/awesome-react-native/</moz:SearchForm>
 </OpenSearchDescription>
