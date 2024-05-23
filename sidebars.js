@@ -17,6 +17,7 @@ module.exports = {
             "components/UI",
             "components/navigation",
             "components/deepLinking",
+            "components/analytics",
             "components/textAndRichContent",
             "components/bottomsheetfooter",
             "components/bottomsheettextinput",
