@@ -80,7 +80,7 @@ tools, tutorials, articles and more. PRs are welcome!
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Many thanks to everyone on the [contributor
-list](https://github.com/jondot/awesome-react-native/graphs/contributors)\\:)
+list](https://github.com/mrpmohiburrahman/awesome-react-native/graphs/contributors)\\:)
 
 ## Conferences
 
