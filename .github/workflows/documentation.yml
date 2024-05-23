@@ -3,10 +3,10 @@ name: documentation
 on:
   pull_request:
     branches:
-      - website
+      - mrp/buildWebSite
   push:
     branches:
-      - website
+      - mrp/buildWebSite
 
 jobs:
   checks:
@@ -48,5 +48,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-          user_name: gorhom
-          user_email: gorhom.dev@gmail.com
+          user_name: mrpmohiburrahman
