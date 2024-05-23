@@ -38,7 +38,7 @@ jobs:
           standalone: true
           run_install: |
             - recursive: true
-              args: [--frozen-lockfile, --strict-peer-dependencies]
+              args: [ --strict-peer-dependencies]
 
       - name: Build website
         run: pnpm build
