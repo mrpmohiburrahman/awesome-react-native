@@ -3,7 +3,6 @@ id: internationalization
 title: Internationalization
 description: Internationalization for React Native
 image: /img/bottom-sheet-preview.gif
-slug: /components/internationalization
 ---
 
 - [fbt ★3202](https://github.com/facebookincubator/fbt) - A JavaScript Internationalization Framework
