@@ -12,6 +12,8 @@ module.exports = {
         "components/frameworks",
       ],
     },
+    "debugger",
+    "testing",
     "templates",
     "deepLinking",
     "buildAndDevelopment",
