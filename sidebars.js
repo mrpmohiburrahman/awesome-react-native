@@ -5,6 +5,7 @@ module.exports = {
       type: "category",
       label: "Components",
       items: [
+        "components/theme",
         "components/icons",
         "components/UI",
         "components/styling",
