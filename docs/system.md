@@ -2,7 +2,6 @@
 id: system
 title: System
 description: System For React Native
-image: /img/bottom-sheet-preview.gif
 ---
 
 - [react-native-firebase ★4192](https://github.com/invertase/react-native-firebase) - A well tested feature rich Firebase implementation for React Native, supporting both iOS & Android platforms for 10+ Firebase modules (including Cloud Firestore).

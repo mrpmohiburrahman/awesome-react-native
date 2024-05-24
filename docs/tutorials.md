@@ -12,8 +12,6 @@ keywords:
   - apps
   - tutorials
   - react native tutorials
-image: /img/bottom-sheet-preview.gif
-slug: /tutorials
 ---
 
 Walkthroughs and tutorials that help you learn React Native.

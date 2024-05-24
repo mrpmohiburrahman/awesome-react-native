@@ -2,7 +2,6 @@
 id: analytics
 title: Analytics
 description: Analytics for React Native
-image: /img/bottom-sheet-preview.gif
 ---
 
 - [react-native-fabric ★1097](https://github.com/corymsmith/react-native-fabric) - A React Native library for Fabric, Crashlytics and Answers

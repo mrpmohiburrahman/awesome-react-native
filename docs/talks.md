@@ -10,8 +10,6 @@ keywords:
   - apps
   - talks
   - tutorials
-image: /img/bottom-sheet-preview.gif
-slug: /talks
 ---
 
 - Chain React 2019: [React Native Only Playlist](https://www.youtube.com/playlist?list=PLq2wBqKQbpCqVKqZwysoo2MEDwVX7auhX)

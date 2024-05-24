@@ -8,8 +8,6 @@ keywords:
   - ios
   - android
   - books
-image: /img/bottom-sheet-preview.gif
-slug: /books
 ---
 
 - [Programming React Native](https://leanpub.com/programming-react-native) - (Free) An in-depth React Native book that you should read after you've done a couple tutorials of the many out there.

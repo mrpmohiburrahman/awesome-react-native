@@ -11,8 +11,6 @@ keywords:
   - talks
   - tutorials
   - blogs
-image: /img/bottom-sheet-preview.gif
-slug: /blogs
 ---
 
 - [React Native Training](https://medium.com/react-native-training)

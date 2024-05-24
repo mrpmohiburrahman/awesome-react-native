@@ -10,8 +10,6 @@ keywords:
   - reanimated
   - apps
   - open source apps
-image: /img/bottom-sheet-preview.gif
-slug: /opensourceapps
 ---
 
 Open source React Native apps and other examples.

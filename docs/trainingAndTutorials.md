@@ -11,8 +11,6 @@ keywords:
   - talks
   - tutorials
   - training
-image: /img/bottom-sheet-preview.gif
-slug: /trainingAndTutorials
 ---
 
 - [Awesome React Native Education ★455](https://github.com/hsavit1/Awesome-React-Native-Education)

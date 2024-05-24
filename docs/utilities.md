@@ -2,7 +2,6 @@
 id: utilities
 title: Utilities
 description: Utilities For React Native
-image: /img/bottom-sheet-preview.gif
 ---
 
 - [upgrade-helper ★398](https://github.com/react-native-community/upgrade-helper) - ⚛️ A web interface to support React Native developers in upgrading their apps. [Link to tool](https://react-native-community.github.io/upgrade-helper)

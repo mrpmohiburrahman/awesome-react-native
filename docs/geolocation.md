@@ -2,7 +2,6 @@
 id: geolocation
 title: Geolocation
 description: Geolocation for React Native
-image: /img/bottom-sheet-preview.gif
 ---
 
 - [react-native-background-geolocation ★1316](https://github.com/transistorsoft/react-native-background-geolocation) - Sophisticated cross-platform background location-tracking & geofencing module with battery-conscious motion-detection intelligence (Android requires paid license).

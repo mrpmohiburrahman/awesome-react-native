@@ -2,8 +2,6 @@
 id: backend
 title: Backend
 description: Backend For React Native
-image: /img/bottom-sheet-preview.gif
-slug: /components/backend
 ---
 
 - [react-native-fetch-blob ★2299](https://github.com/wkh237/react-native-fetch-blob) - A module integrates network and file system. Supports file stream.

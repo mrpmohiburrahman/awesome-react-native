@@ -8,8 +8,6 @@ keywords:
   - ios
   - android
   - newsletters
-image: /img/bottom-sheet-preview.gif
-slug: /newsletters
 ---
 
 - [React Native Now](https://reactnativenow.com)

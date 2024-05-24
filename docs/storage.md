@@ -2,7 +2,6 @@
 id: storage
 title: Storage
 description: Storage For React Native
-image: /img/bottom-sheet-preview.gif
 ---
 
 - [RxDB ★12797](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications.
