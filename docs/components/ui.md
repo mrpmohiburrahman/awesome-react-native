@@ -1,13 +1,11 @@
 ---
 id: UI
 title: UI
-description: a pre-built BottomSheet backdrop implementation with configurable props.
+description: UI For React Native.
 slug: /components/ui
 ---
 
 - [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - A mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
-- [react-icomoon](https://github.com/aykutkardas/react-icomoon) - With React-Icomoon you can easily use the icons you have selected or created in icomoon. 📦 Zero Dependencies and Lightweight.
-- [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
 - [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 - [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [react-native-gifted-chat ★6546](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
@@ -52,7 +50,6 @@ slug: /components/ui
 - [victory-native ★1264](https://github.com/FormidableLabs/victory-native) - Victory-native is a collection of components to help you create charts, bar graphs etc.
 - [react-native-picker ★1238](https://github.com/beefe/react-native-picker) - react-native-picker
 - [react-native-collapsible ★1174](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
-- [react-native-icons ★1168](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 - [react-native-orientation ★1162](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
 - [react-native-tableview ★1105](https://github.com/aksonov/react-native-tableview) - Native iOS TableView wrapper for React Native
 - [react-native-keyboard-spacer ★1103](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) - Plug and play react-Native keyboard spacer view.
@@ -194,7 +191,6 @@ slug: /components/ui
 - [react-native-radial-menu ★153](https://github.com/omulet/react-native-radial-menu) - A Radial Menu optimized for touch interfaces
 - [react-native-gestures ★152](https://github.com/kiddkai/react-native-gestures) - Composable gesture system in react native
 - [react-native-page-control ★151](https://github.com/silentcloud/react-native-page-control) - React native page control, like ios UIPageControl
-- [react-native-iconic ★149](https://github.com/prscX/react-native-iconic) - React Native - Animated Icons with different states
 - [react-native-google-place-picker ★148](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
 - [react-native-scaling-drawer ★148](https://github.com/melihberberolu/react-native-scaling-drawer) - React native scaling drawer.
 - [react-native-image-carousel ★148](https://github.com/anvilabs/react-native-image-carousel) - Image carousel with support for fullscreen mode, image swiping and pinch-to-zoom in fullscreen mode.
@@ -343,7 +339,6 @@ slug: /components/ui
 - [react-native-ibeacon-simulator ★32](https://github.com/williamtran29/react-native-ibeacon-simulator) - React Native Library to simulate device act as an iBeacon
 - [react-native-suggester ★32](https://github.com/xcarpentier/react-native-suggester) - React-Native package to decorate TextInput and get suggestions with good UX.
 - [react-native-photo-grid ★31](https://github.com/christopherabouabdo/react-native-photo-grid) - React Native component that handles the complexities of building a grid of photos with a flexible number of photos per row.
-- [react-native-android-iconify ★30](https://github.com/lwhiteley/react-native-android-iconify) - icons for react native android using android-iconify
 - [react-native-touchable-set-active ★30](https://github.com/jmstout/react-native-TouchableSetActive) - Touchable component for React Native that enables more advanced styling by setting an active state. Most useful for building your own touchable/button components on top of.
 - [react-native-telephone-input ★30](https://github.com/kundigo/react-native-telephone-input) - React Native Telephone Input, discover country and mask telephone Input
 - [react-native-nmrangeslider-ios ★29](https://github.com/Enrise/react-native-nmrangeslider-ios) - The NMRangeSlider component for React Native
@@ -455,7 +450,6 @@ slug: /components/ui
 - [rn-action-picker](https://github.com/akshit5230/rn-action-picker) - A simple action picker for iOS and Android. Renders Native ActionSheetIOS Component in iOS and custom ActionSheet lookalike component in Android.
 - [rn-collapsible-section](https://github.com/akshit5230/React-Native-Collapsible-Section) - A collapsible section / section list with customizable section body and child body. Supports both iOS and Android.
 - [view-on-steroids](https://github.com/vko-online/pane) - React-Native View component with inline styles
-- [react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - [Eva Icons](https://github.com/akveo/eva-icons) implementation for React Native based on react-native-svg elements.
 - [react-native-dots-pagination ★3](https://github.com/tsepeti/react-native-dots-pagination) - A simple dot paging for React Native.
 - [react-native-gesture-detector](https://github.com/mxmzb/react-native-gesture-detector) - Easily create and detect custom, complex gestures on React Native.
 - [react-native-scrollview-header ★5](https://github.com/weifxn/react-native-scrollview-header) - An animated ScrollView header that transitions from transparent background to opaque upon scrolling.
