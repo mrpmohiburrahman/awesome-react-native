@@ -4,6 +4,7 @@ title: Navigation
 description: Navigation Library
 ---
 
+- [Expo Router](https://docs.expo.dev/router/introduction/) - File-based router for React Native and web applications
 - [react-navigation ★14233](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
 - [react-native-navigation ★9325](https://github.com/wix/react-native-navigation) - App-wide support for 100% native navigation with an easy cross-platform interface.
 
