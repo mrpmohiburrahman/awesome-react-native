@@ -55,3 +55,5 @@ keywords:
 - [react-native-redux ★160](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
 - [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
 - [react-native-web-workspace ★58](https://github.com/agrcrobles/react-native-web-workspace) - A cross platform app with react in a monorepo
+
+- [kittenTricks ★4227](https://github.com/akveo/kittenTricks) - A react native mobile starter kit with over 40 screens and theme hot reload support
