@@ -51,7 +51,7 @@ Open source React Native apps and other examples.
 - [Redux Demo ★226](https://github.com/chentsulin/react-native-counter-ios-android) - Minimal implement of redux counter example on ReactNative iOS and Android
 - [React Native Embedded App ★218](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
 - [React Native Example, Geo and Location ★216](https://github.com/bgryszko/react-native-example)
-- [uestc-bbs-react-native ★216](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for <http://bbs.uestc.edu.cn/> written in React Native with Redux
+- [uestc-bbs-react-native ★216](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for [http://bbs.uestc.edu.cn/](http://bbs.uestc.edu.cn/) written in React Native with Redux
 - [Sh\*\*t! I Smoke ★209](https://github.com/amaurymartiny/shoot-i-smoke) - Know how many cigarettes you smoke based on the pollution of your location.
 - [PxView ★198](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
 - [BBC News (Unofficial) ★187](https://github.com/joeltrew/BBCNews-React-Native) - a BBC news app
@@ -104,7 +104,7 @@ Open source React Native apps and other examples.
 - [iGap Plus ★13](https://github.com/RooyeKhat-Media/iGap-Plus) - iGap+ is a cross-platform messaging application (Currently Android , iOS and Windows UWP) and has been created using all latest modern technologies. iGap+ is designed to easily support additional platforms like web, macOS and linux.
 - [Posters_Galore_Android ★11](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 - [react-native-medium-clap-animation ★11](https://github.com/saketkumar95/react-native-medium-clap-animation) - Medium Clap Animation in React Native
-- [HupuApp ★9](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App (<http://bbs.hupu.com/>) client implemented using React Native (Android and iOS).
+- [HupuApp ★9](https://github.com/MelonRice/ReactNative-HupuJRS) - A Third-party Hupu App [http://bbs.hupu.com/](http://bbs.hupu.com/) client implemented using React Native (Android and iOS).
 - [react-native-uber-clone ★9](https://github.com/saketkumar95/react-native-uber-clone) - Uber UI Clone with animations in react native
 - [Commit Strip (Unofficial) ★8](https://github.com/rizalibnu/commit-strip-react-native) - A CommitStrip.com reader built in React Native.
 - [react-native-otello ★6](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native

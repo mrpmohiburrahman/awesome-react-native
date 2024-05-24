@@ -2,7 +2,6 @@
 id: UI
 title: UI
 description: a pre-built BottomSheet backdrop implementation with configurable props.
-image: /img/bottom-sheet-preview.gif
 slug: /components/ui
 ---
 
@@ -99,7 +98,7 @@ slug: /components/ui
 - [react-native-rating-element ★8](https://github.com/ui-ninja/react-native-rating-element) - A react native rating system supporting: decimal point's rating, direction aware icons like bottom to top or right to left etc, custom icons from Ionicons, custom images and record rating given by users.
 - [react-native-parallax ★479](https://github.com/oblador/react-native-parallax) - Parallax effects for React Native using Animated API
 - [react-native-sketch ★467](https://github.com/jgrancher/react-native-sketch) - A react-native &lt;Sketch /> component to draw with touch events.
-- [react-native-dialogs ★463](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for <https://github.com/afollestad/material-dialogs>
+- [react-native-dialogs ★463](https://github.com/aakashns/react-native-dialogs) - React Native wrappers for [https://github.com/afollestad/material-dialogs](https://github.com/afollestad/material-dialogs)
 - [galio ★458](https://github.com/galio-org/galio) - A fresh react native UI framework.
 - [react-native-root-siblings ★452](https://github.com/magicismight/react-native-root-siblings) - Add sibling elements after your app root element.
 - [react-native-size-matters ★436](https://github.com/nirsky/react-native-size-matters) - A React-Native utility belt for scaling the size your apps UI across different sized devices.

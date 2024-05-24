@@ -11,7 +11,7 @@ module.exports = {
   organizationName: "gorhom",
   projectName: "react-native-bottom-sheet",
   favicon: "img/favicon.ico",
-  onBrokenLinks:"warn",
+  onBrokenLinks: "warn",
   themeConfig: {
     image: "img/icon.png",
     navbar: {
@@ -55,7 +55,7 @@ module.exports = {
           routeBasePath: "/",
           editUrl:
             "https://github.com/gorhom/react-native-bottom-sheet/edit/website/",
-          lastVersion: "current",
+          // lastVersion: "current",
         },
         // blog: {
         //   path: "blog",
