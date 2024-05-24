@@ -1,10 +1,17 @@
 ---
-id: seeds
-title: Seeds
-description: Get a head start on development with an existing seed.
-image: /img/bottom-sheet-preview.gif
+id: templates
+title: Templates
+description: Templates
+keywords:
+  - react-native
+  - react native
+  - ios
+  - android
+  - apps
+  - talks
+  - tutorials
+  - templates
 ---
-
 
 - [🔥 Ignite ★8832](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
 - [Pepperoni ★4383](https://github.com/futurice/pepperoni-app-kit) - **(deprecated)** Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state
@@ -18,19 +25,18 @@ image: /img/bottom-sheet-preview.gif
 - [🚀 React Native Starter ★388](https://github.com/flatlogic/react-native-starter) - A powerful starter template that bootstraps development of your mobile application.
 - [ReactNativeTS ★353](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
 - [react-native-starter by Ueno ★311](https://github.com/ueno-llc/react-native-starter) - Professional react-native starter kit with everything you'll ever need to deploy rock solid apps
-- [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
+
 - [react-native-vanilla ★185](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
 - [react-native-template-typescript ★183](https://github.com/emin93/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript.
 - [react-native-template-airbnb](https://github.com/iboldurev/react-native-template-airbnb) - Clean and minimalist React Native template for a quick start with Airbnb (Flow, Prettier).
-- [react-native-redux ★160](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
-- [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
+
 - [react-native-hot-redux-starter ★135](https://github.com/adampash/react-native-hot-redux-starter)
 - [react-native-typescript-boilerplate ★129](https://github.com/AmitM30/react-native-typescript-boilerplate) - An opinionated boilerplate built with React Native Navigation v3 + Redux + Thunk, in TypeScript. Follows industry best practices.
 - [Rhinos-app ★81](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.
 - [react-native-web-boilerplate ★72](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
 - [react-native-boilerplate ★61](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
 - [react-native-easy-starter ★50](https://github.com/HarishJangra/react-native-easy-starter) - A React-native starter kit using latest react and react-native [0.60.5](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#v0605), easy-peasy state management, hooks workflow, hermes, codepush ready-to-use custom hooks, react-native-paper, contextapis, theming support and much more (android + ios)
-- [react-native-web-workspace ★58](https://github.com/agrcrobles/react-native-web-workspace) - A cross platform app with react in a monorepo
+
 - [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
 - [React-Native-Starter-Pack ★40](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
 - [react-native-relay-example ★38](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
@@ -45,3 +51,7 @@ image: /img/bottom-sheet-preview.gif
 - [react-int](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
 - [RNStarter](https://github.com/i-mighty/RNStarter) - ✨ A React Native Starter with 10+ commonly used libraries ✨
 
+- [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
+- [react-native-redux ★160](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
+- [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
+- [react-native-web-workspace ★58](https://github.com/agrcrobles/react-native-web-workspace) - A cross platform app with react in a monorepo
