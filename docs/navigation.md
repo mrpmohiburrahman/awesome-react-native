@@ -2,8 +2,6 @@
 id: navigation
 title: Navigation
 description: Navigation Library
-image: /img/bottom-sheet-preview.gif
-slug: /components/navigation
 ---
 
 - [react-navigation ★14233](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native

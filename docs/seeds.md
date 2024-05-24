@@ -3,7 +3,6 @@ id: seeds
 title: Seeds
 description: Get a head start on development with an existing seed.
 image: /img/bottom-sheet-preview.gif
-slug: /components/seeds
 ---
 
 

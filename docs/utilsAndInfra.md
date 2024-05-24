@@ -3,7 +3,6 @@ id: utilsAndInfra
 title: Utils & Infra
 description: Utils for React Native
 image: /img/bottom-sheet-preview.gif
-slug: /components/utilsAndInfra
 ---
 
 - [detox ★3566](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native

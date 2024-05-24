@@ -2,8 +2,6 @@
 id: integrations
 title: Integrations
 description: Integrations For React Native
-image: /img/bottom-sheet-preview.gif
-slug: /components/integrations
 ---
 
 - [react-native-wechat ★2016](https://github.com/weflex/react-native-wechat) - react-native library for wechat app

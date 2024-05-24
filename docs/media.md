@@ -2,8 +2,6 @@
 id: media
 title: Media
 description: Media For React Native
-image: /img/bottom-sheet-preview.gif
-slug: /components/media
 ---
 
 - [react-native-camera ★6227](https://github.com/lwansbrough/react-native-camera) - Camera component

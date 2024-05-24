@@ -2,8 +2,6 @@
 id: buildAndDevelopment
 title: Build And Development
 description: Build And Development for React Native
-image: /img/bottom-sheet-preview.gif
-slug: /components/buildAndDevelopment
 ---
 
 - [reactotron ★9198](https://github.com/skellock/reactotron) - Control, monitor, and instrument your React Native apps from the comfort of your terminal.

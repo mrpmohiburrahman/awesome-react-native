@@ -2,8 +2,6 @@
 id: monetization
 title: Monetization
 description: Monetization For React Native
-image: /img/bottom-sheet-preview.gif
-slug: /components/monetization
 ---
 
 - [react-native-admob ★713](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.

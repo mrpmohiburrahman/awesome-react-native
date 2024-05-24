@@ -2,8 +2,6 @@
 id: extension
 title: Extension
 description: Extension For React Native
-image: /img/bottom-sheet-preview.gif
-slug: /components/extension
 ---
 
 - [React Native Today Widget ★190](https://github.com/matejkriz/react-native-today-widget) - iOS Today Widget Extension in React Native

@@ -3,7 +3,6 @@ id: web
 title: Web
 description: Web For React Native
 image: /img/bottom-sheet-preview.gif
-slug: /components/web
 ---
 
 - [react-native-webrtc ★1805](https://github.com/oney/react-native-webrtc) - A WebRTC module for React Native.

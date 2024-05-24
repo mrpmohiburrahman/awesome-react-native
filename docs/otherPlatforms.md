@@ -2,8 +2,6 @@
 id: otherPlatforms
 title: Other Platforms
 description: Other Platforms For React Native
-image: /img/bottom-sheet-preview.gif
-slug: /components/otherPlatforms
 ---
 
 - [react-native-web ★10904](https://github.com/necolas/react-native-web) - React Native for Web

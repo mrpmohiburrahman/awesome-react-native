@@ -2,8 +2,6 @@
 id: forms
 title: Forms
 description: Forms for React Native
-image: /img/bottom-sheet-preview.gif
-slug: /components/forms
 ---
 
 - [formik ★10633](https://github.com/jaredpalmer/formik) - Forms in React, without tears.

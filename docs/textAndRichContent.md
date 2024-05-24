@@ -2,8 +2,6 @@
 id: textAndRichContent
 title: Text & Rich Content
 description: Text & Rich Content
-image: /img/bottom-sheet-preview.gif
-slug: /components/textAndRichContent
 ---
 
 - [react-native-hyperlink ★354](https://github.com/obipawan/hyperlink) - A `<Hyperlink />` component for react-native that makes urls, fuzzy links, emails etc clickable and stylable
